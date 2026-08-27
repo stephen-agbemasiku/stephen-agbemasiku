@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3E8E41&height=180&section=header&text=Stephen%20Agbemasiku&fontSize=40&fontColor=ffffff&desc=MPhil%20Economics%20Candidate&descSize=16&descAlignY=68" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3E8E41&height=180&text=Stephen%20Agbemasiku&fontSize=40&fontColor=ffffff&desc=MPhil%20Economics%20Candidate&descSize=16&descAlignY=68" width="100%"/>
 </p>
 
 ## 📌 About Me
@@ -43,8 +43,9 @@ My MPhil thesis research utilizes empirical econometric modeling to examine the 
 
 [![Email](https://img.shields.io/badge/Email-agbemasikustephen%40gmail.com-3E8E41?style=for-the-badge&logo=gmail&logoColor=white)](mailto:agbemasikustephen@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Stephen_Agbemasiku-3E8E41?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/stephen-agbemasiku)
+[![Portfolio](https://img.shields.io/badge/Portfolio-My_Google_Site-3E8E41?style=for-the-badge&logo=google&logoColor=white)](https://sites.google.com/view/stephenagbemasiku)
 [![ResearchGate](https://img.shields.io/badge/ResearchGate-Stephen_Agbemasiku-3E8E41?style=for-the-badge&logo=researchgate&logoColor=white)](https://www.researchgate.net/)
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=3E8E41&height=100&section=footer" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=3E8E41&height=30" width="100%"/>
 </p>
